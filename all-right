@@ -1,7 +1,7 @@
 ! name: News from the Right and remove the Left
-! description: Rank results to boost content from sources with an AllSides Media Bias Rating™ of Right or Lean Right. Drop most Left
+! description: Rank results to boost content from sources with an AllSides Media Bias Rating™ of Right / Lean Right. Drop most Left
 ! public: true
-! author: AllSides.com
+! author: Portions taken from AllSides.com for balance
 ! homepage: https://www.allsides.com/
 ! avatar: #ca0800
 
