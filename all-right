@@ -132,6 +132,7 @@ $discard,site=salon.com
 $discard,site=refinery29.com
 $discard,site=nytimes.com
 $discard,site=msnbc.com
+$discard,site=cnbc.com
 $discard,site=buzzfeednews.com
 $discard,site=alternet.org
 $discard,site=abcnews.go.com
