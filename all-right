@@ -116,7 +116,13 @@ $boost=2,site=atlasone.org
 $boost=2,site=ammo.com
 $boost=2,site=amgreatness.com
 $boost=2,site=americanmind.org
+$boost=2,site=thenewamerican.com
+$boost=2,site=pjmedia.com
+$boost=2,site=justthenews.com
+$boost=2,site=libertynation.com
+$boost=2,site=x.com
 
+$discard,site=*.uk
 $discard,site=nytimes.com
 $discard,site=vox.com
 $discard,site=thedailybeast.com
@@ -317,9 +323,5 @@ $discard,site=twincities.com
 
 $discard,site=prageru.com
 $discard,site=foxnews.com
-$discard,site=breitbart.com
-$discard,site=nypost.com
 $discard,site=wsj.com
-$discard,site=thegatewaypundit.com
-$discard,site=dailywire.com
 $discard,site=quora.com
